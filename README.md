@@ -1,6 +1,16 @@
-## Getting Started
+## Ejercicio 2.1: Persona
+Developed in java using Visual Studio 
+## Integrantes:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Sofía Uribe García
+- Elena Arango Durango
+- Esteban Agudelo Rincón
+
+Universidad Nacional de Colombia Sede Medellin
+
+Facultad de minas
+
+Walter Hugo Arboleda Mazo
 
 ## Folder Structure
 
